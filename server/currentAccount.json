@@ -1,0 +1,57 @@
+{
+  "currentAccount": [
+    {
+      "id": "b0318397-0544-466a-9691-7ae66b8924e8ca",
+      "titular": "398d012a-bea3-4230-917f-bf6f952dc0adnp",
+      "balance": 20000,
+      "sucursal": "Davibienda",
+      "operations": [],
+      "isActive": true
+    },
+    {
+      "id": "a7998332-2b75-4867-aac2-31f6a4aafe58ca",
+      "titular": "1ce30e7c-63df-41d4-b5bd-08066bc07ce6cmp",
+      "balance": 14405,
+      "sucursal": "Davibienda",
+      "operations": [],
+      "isActive": true
+    },
+    {
+      "id": "d3239fbe-8591-43b4-93e8-84264d92e1cfca",
+      "titular": "bf1c91ee-64ab-44b5-92fa-5896e4fe941fnp",
+      "balance": 48810,
+      "sucursal": "Davibienda",
+      "operations": [],
+      "isActive": true
+    },
+    {
+      "id": "ef002b78-f487-460c-82ab-3f1045ae1a9fca",
+      "titular": "a5883365-b73d-467b-9e74-e95fbafb4a22np",
+      "balance": 0,
+      "sucursal": "StarBank",
+      "operations": [],
+      "isActive": false
+    },
+    {
+      "id": "c9d69dd1-bbec-4f41-8e24-7e63ccb23fd0ca",
+      "titular": "d1da16c6-45ef-4862-a6ec-c466089be191np",
+      "balance": 0,
+      "sucursal": "StarBank",
+      "isActive": false
+    },
+    {
+      "id": "6292d9ae-621d-4888-955e-d831c2b9a14dca",
+      "titular": "c41fb3d6-45e4-4188-bdb0-140d4a9de499cmp",
+      "balance": 0,
+      "sucursal": "StarBank",
+      "isActive": false
+    },
+    {
+      "id": "f7e565a8-6bf7-4099-bc19-90abc0c3d5eaca",
+      "titular": "c5aed6d2-4d31-4866-93ed-da34ba4fc717cmp",
+      "balance": 69490,
+      "sucursal": "StarBank",
+      "isActive": true
+    }
+  ]
+}

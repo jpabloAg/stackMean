@@ -1,0 +1,105 @@
+{
+  "savingsAccount": [
+    {
+      "id": "ec152666-8cae-48a0-a08a-b5ea1505d1d5sa",
+      "titular": "398d012a-bea3-4230-917f-bf6f952dc0adnp",
+      "interest": 0.02,
+      "balance": 81224,
+      "sucursal": "Bancolombia",
+      "operations": [],
+      "isActive": true
+    },
+    {
+      "id": "7792edc8-7f7f-4a9d-aef3-0541ea1b1f13sa",
+      "titular": "1ce30e7c-63df-41d4-b5bd-08066bc07ce6cmp",
+      "interest": 0.02,
+      "balance": 20000,
+      "sucursal": "Bancolombia",
+      "operations": [],
+      "isActive": true
+    },
+    {
+      "id": "16bd1409-25f2-4ed2-8c7a-c472d1ac48d1sa",
+      "titular": "5d03d529-0c99-4c67-9bd1-593aa5708011np",
+      "interest": 0.02,
+      "balance": 20000,
+      "sucursal": "Bancolombia",
+      "operations": [],
+      "isActive": true
+    },
+    {
+      "id": "1a10c8aa-4291-431d-85df-4e188903c0d6sa",
+      "titular": "bf1c91ee-64ab-44b5-92fa-5896e4fe941fnp",
+      "interest": 0.02,
+      "balance": 15400,
+      "sucursal": "Bancolombia",
+      "operations": [],
+      "isActive": true
+    },
+    {
+      "id": "d731c002-7022-42fd-ba70-64f08ff9ba4asa",
+      "titular": "a5883365-b73d-467b-9e74-e95fbafb4a22np",
+      "interest": 0.02,
+      "balance": 0,
+      "sucursal": "StarBank",
+      "operations": [],
+      "isActive": false
+    },
+    {
+      "id": "ec1c9e31-40b5-4d85-8530-c449fa68de20sa",
+      "titular": "d1da16c6-45ef-4862-a6ec-c466089be191np",
+      "interest": 0.02,
+      "balance": 0,
+      "sucursal": "StarBank",
+      "isActive": false
+    },
+    {
+      "id": "d8cf14e7-34df-40a0-91c8-76ac4b3cf586sa",
+      "titular": "c41fb3d6-45e4-4188-bdb0-140d4a9de499cmp",
+      "interest": 0.02,
+      "balance": 0,
+      "sucursal": "StarBank",
+      "isActive": false
+    },
+    {
+      "id": "585fc8ea-ad9a-4a01-9ff9-d482542a6cacsa",
+      "titular": "86c701fb-77fb-442d-b0b1-d024c7bdc792np",
+      "interest": 0.02,
+      "balance": 448800,
+      "sucursal": "StarBank",
+      "isActive": true
+    },
+    {
+      "id": "dba3b36c-ac49-4147-8a7d-675051d72c24sa",
+      "titular": "86c701fb-77fb-442d-b0b1-d024c7bdc792np",
+      "interest": 0.02,
+      "balance": null,
+      "sucursal": "StarBank",
+      "isActive": true
+    },
+    {
+      "id": "2cce3744-9391-48dc-9e3d-6f8c67100148sa",
+      "titular": "86c701fb-77fb-442d-b0b1-d024c7bdc792np",
+      "interest": 0.02,
+      "balance": 0,
+      "sucursal": "StarBank",
+      "isActive": false
+    },
+    {
+      "id": "c987b892-7ef4-4808-9225-b4ed990b836bsa",
+      "titular": "1e615f59-71ee-4a9b-8cff-d89916bee4cenp",
+      "interest": 0.02,
+      "balance": 79200,
+      "sucursal": "StarBank",
+      "isActive": true
+    },
+    {
+      "id": "ec2a42e1-1e08-43ca-a363-16f0a4427ab4sa",
+      "titular": "9b76722d-4142-47af-9664-4eb9e78cdb38np",
+      "interest": 0.02,
+      "balance": 0,
+      "sucursal": "StarBank",
+      "isActive": false
+    }
+  ]
+}

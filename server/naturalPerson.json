@@ -1,0 +1,68 @@
+{
+  "naturalPerson": [
+    {
+      "id": "398d012a-bea3-4230-917f-bf6f952dc0adnp",
+      "name": "seung duuc",
+      "phone": "1111",
+      "address": "korea",
+      "occupation": "model",
+      "isSubscribed": true
+    },
+    {
+      "id": "5d03d529-0c99-4c67-9bd1-593aa5708011np",
+      "name": "barry",
+      "phone": "4444",
+      "address": "start city",
+      "occupation": "flash",
+      "isSubscribed": true
+    },
+    {
+      "id": "bf1c91ee-64ab-44b5-92fa-5896e4fe941fnp",
+      "name": "cisco",
+      "phone": "456",
+      "address": "starling city",
+      "occupation": "mecanico",
+      "isSubscribed": true
+    },
+    {
+      "id": "a5883365-b73d-467b-9e74-e95fbafb4a22np",
+      "name": "Hayato",
+      "phone": "5544",
+      "address": "corea del sur",
+      "occupation": "Fotografo",
+      "isSubscribed": false
+    },
+    {
+      "id": "d1da16c6-45ef-4862-a6ec-c466089be191np",
+      "name": "Huk",
+      "phone": "4477",
+      "address": "my house",
+      "occupation": "fotografo",
+      "isSubscribed": false
+    },
+    {
+      "id": "86c701fb-77fb-442d-b0b1-d024c7bdc792np",
+      "name": "iris",
+      "phone": "142",
+      "address": "star link",
+      "occupation": "forence",
+      "isSubscribed": true
+    },
+    {
+      "id": "1e615f59-71ee-4a9b-8cff-d89916bee4cenp",
+      "name": "pablo",
+      "phone": "3179888",
+      "address": "poblado",
+      "occupation": "fotografo",
+      "isSubscribed": true
+    },
+    {
+      "id": "9b76722d-4142-47af-9664-4eb9e78cdb38np",
+      "name": "barru",
+      "phone": "12346",
+      "address": "calle 31",
+      "occupation": "fotografo",
+      "isSubscribed": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "company": [
+    {
+      "id": "1ce30e7c-63df-41d4-b5bd-08066bc07ce6cmp",
+      "name": "Pablo",
+      "phone": "2222",
+      "address": "colombia",
+      "occupation": "estudiante",
+      "nit": "123456",
+      "nameCompany": "raferty",
+      "commercialSection": "decoración",
+      "isSubscribe": false,
+      "isSubscribed": true
+    },
+    {
+      "id": "c41fb3d6-45e4-4188-bdb0-140d4a9de499cmp",
+      "name": "iris",
+      "phone": "111",
+      "address": "star link",
+      "occupation": "periodista",
+      "nit": "88",
+      "nameCompany": "star labs",
+      "commercialSection": "investigation",
+      "isSubscribe": false,
+      "isSubscribed": false
+    },
+    {
+      "id": "c5aed6d2-4d31-4866-93ed-da34ba4fc717cmp",
+      "name": "mario",
+      "phone": "123456",
+      "address": "konoha",
+      "occupation": "hokage",
+      "nit": "11111",
+      "nameCompany": "aldea entre la hoja",
+      "commercialSection": "venta de ropa",
+      "isSubscribed": true
+    },
+    {
+      "id": "58fe8ea5-e2d1-4c12-8ace-6562683ab54ecmp",
+      "name": "luigi",
+      "phone": "12345",
+      "address": "catle peach",
+      "occupation": "player2",
+      "nit": "14789",
+      "nameCompany": "nint",
+      "commercialSection": "game",
+      "isSubscribed": false
+    }
+  ]
+}

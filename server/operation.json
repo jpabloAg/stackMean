@@ -1,0 +1,524 @@
+{
+  "operation": [
+    {
+      "name": "consignar",
+      "account": "123",
+      "value": 15000,
+      "sucursal": "starbank",
+      "date": "hoy",
+      "time": "1:17"
+    },
+    {
+      "name": "consignar",
+      "account": "d3239fbe-8591-43b4-93e8-84264d92e1cfca",
+      "value": null,
+      "sucursal": "Davibienda",
+      "date": "June 1st 2020",
+      "time": "1:21:18 am"
+    },
+    {
+      "name": "consignar",
+      "account": "d3239fbe-8591-43b4-93e8-84264d92e1cfca",
+      "value": 5000,
+      "sucursal": "Davibienda",
+      "date": "June 1st 2020",
+      "time": "1:21:43 am"
+    },
+    {
+      "name": "desactivar cuenta",
+      "account": "d3239fbe-8591-43b4-93e8-84264d92e1cfca",
+      "value": 5000,
+      "sucursal": "Davibienda",
+      "date": "June 1st 2020",
+      "time": "1:21:51 am"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "d3239fbe-8591-43b4-93e8-84264d92e1cfca",
+      "value": 20000,
+      "sucursal": "Davibienda",
+      "date": "June 1st 2020",
+      "time": "1:22:36 am"
+    },
+    {
+      "name": "consignar",
+      "account": "d3239fbe-8591-43b4-93e8-84264d92e1cfca",
+      "value": 100000,
+      "sucursal": "Davibienda",
+      "date": "June 1st 2020",
+      "time": "1:22:50 am"
+    },
+    {
+      "name": "consignar",
+      "account": "d3239fbe-8591-43b4-93e8-84264d92e1cfca",
+      "value": 40000,
+      "sucursal": "Davibienda",
+      "date": "June 1st 2020",
+      "time": "1:24:00 am"
+    },
+    {
+      "name": "desactivar cuenta",
+      "account": "d3239fbe-8591-43b4-93e8-84264d92e1cfca",
+      "value": 79320,
+      "sucursal": "Davibienda",
+      "date": "June 1st 2020",
+      "time": "1:24:49 am"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "d3239fbe-8591-43b4-93e8-84264d92e1cfca",
+      "value": 20000,
+      "sucursal": "Davibienda",
+      "date": "June 1st 2020",
+      "time": "1:25:55 am"
+    },
+    {
+      "name": "consignar",
+      "account": "d3239fbe-8591-43b4-93e8-84264d92e1cfca",
+      "value": 100000,
+      "sucursal": "Davibienda",
+      "date": "June 1st 2020",
+      "time": "1:26:12 am"
+    },
+    {
+      "name": "retirar",
+      "account": "d3239fbe-8591-43b4-93e8-84264d92e1cfca",
+      "value": 70000,
+      "sucursal": "Davibienda",
+      "date": "June 1st 2020",
+      "time": "1:26:40 am"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "d731c002-7022-42fd-ba70-64f08ff9ba4asa",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 3rd 2020",
+      "time": "3:25:04 pm"
+    },
+    {
+      "name": "desactivar cuenta",
+      "account": "d731c002-7022-42fd-ba70-64f08ff9ba4asa",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 3rd 2020",
+      "time": "3:25:19 pm"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "d731c002-7022-42fd-ba70-64f08ff9ba4asa",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 3rd 2020",
+      "time": "3:25:41 pm"
+    },
+    {
+      "name": "consignar",
+      "account": "d731c002-7022-42fd-ba70-64f08ff9ba4asa",
+      "value": 100000,
+      "sucursal": "StarBank",
+      "date": "June 3rd 2020",
+      "time": "3:25:52 pm"
+    },
+    {
+      "name": "desactivar cuenta",
+      "account": "d731c002-7022-42fd-ba70-64f08ff9ba4asa",
+      "value": 120000,
+      "sucursal": "StarBank",
+      "date": "June 3rd 2020",
+      "time": "3:27:07 pm"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "d731c002-7022-42fd-ba70-64f08ff9ba4asa",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 3rd 2020",
+      "time": "3:27:34 pm"
+    },
+    {
+      "name": "consignar",
+      "account": "d731c002-7022-42fd-ba70-64f08ff9ba4asa",
+      "value": 80000,
+      "sucursal": "StarBank",
+      "date": "June 3rd 2020",
+      "time": "3:27:51 pm"
+    },
+    {
+      "name": "retirar",
+      "account": "d731c002-7022-42fd-ba70-64f08ff9ba4asa",
+      "value": 40000,
+      "sucursal": "StarBank",
+      "date": "June 3rd 2020",
+      "time": "3:29:42 pm"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "ef002b78-f487-460c-82ab-3f1045ae1a9fca",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 3rd 2020",
+      "time": "3:30:52 pm"
+    },
+    {
+      "name": "consignar",
+      "account": "ef002b78-f487-460c-82ab-3f1045ae1a9fca",
+      "value": 120000,
+      "sucursal": "StarBank",
+      "date": "June 3rd 2020",
+      "time": "3:31:12 pm"
+    },
+    {
+      "name": "retirar",
+      "account": "ef002b78-f487-460c-82ab-3f1045ae1a9fca",
+      "value": 30000,
+      "sucursal": "StarBank",
+      "date": "June 3rd 2020",
+      "time": "3:32:18 pm"
+    },
+    {
+      "name": "desactivar cuenta",
+      "account": "d731c002-7022-42fd-ba70-64f08ff9ba4asa",
+      "value": 59200,
+      "sucursal": "StarBank",
+      "date": "June 3rd 2020",
+      "time": "3:32:53 pm"
+    },
+    {
+      "name": "desactivar cuenta",
+      "account": "ef002b78-f487-460c-82ab-3f1045ae1a9fca",
+      "value": 109490,
+      "sucursal": "StarBank",
+      "date": "June 3rd 2020",
+      "time": "3:33:14 pm"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "ec1c9e31-40b5-4d85-8530-c449fa68de20sa",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 5th 2020",
+      "time": "2:08:15 pm"
+    },
+    {
+      "name": "consignar",
+      "account": "ec1c9e31-40b5-4d85-8530-c449fa68de20sa",
+      "value": 50000,
+      "sucursal": "StarBank",
+      "date": "June 5th 2020",
+      "time": "2:08:44 pm"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "c9d69dd1-bbec-4f41-8e24-7e63ccb23fd0ca",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 5th 2020",
+      "time": "2:09:22 pm"
+    },
+    {
+      "name": "consignar",
+      "account": "c9d69dd1-bbec-4f41-8e24-7e63ccb23fd0ca",
+      "value": 40000,
+      "sucursal": "StarBank",
+      "date": "June 5th 2020",
+      "time": "2:09:39 pm"
+    },
+    {
+      "name": "retirar",
+      "account": "c9d69dd1-bbec-4f41-8e24-7e63ccb23fd0ca",
+      "value": 30000,
+      "sucursal": "StarBank",
+      "date": "June 5th 2020",
+      "time": "2:10:15 pm"
+    },
+    {
+      "name": "consignar",
+      "account": "c9d69dd1-bbec-4f41-8e24-7e63ccb23fd0ca",
+      "value": 50000,
+      "sucursal": "StarBank",
+      "date": "June 5th 2020",
+      "time": "2:10:30 pm"
+    },
+    {
+      "name": "retirar",
+      "account": "c9d69dd1-bbec-4f41-8e24-7e63ccb23fd0ca",
+      "value": 30000,
+      "sucursal": "StarBank",
+      "date": "June 5th 2020",
+      "time": "2:10:43 pm"
+    },
+    {
+      "name": "desactivar cuenta",
+      "account": "ec1c9e31-40b5-4d85-8530-c449fa68de20sa",
+      "value": 70000,
+      "sucursal": "StarBank",
+      "date": "June 5th 2020",
+      "time": "2:11:31 pm"
+    },
+    {
+      "name": "desactivar cuenta",
+      "account": "c9d69dd1-bbec-4f41-8e24-7e63ccb23fd0ca",
+      "value": 48980,
+      "sucursal": "StarBank",
+      "date": "June 5th 2020",
+      "time": "2:11:51 pm"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "6292d9ae-621d-4888-955e-d831c2b9a14dca",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 5th 2020",
+      "time": "2:14:07 pm"
+    },
+    {
+      "name": "desactivar cuenta",
+      "account": "6292d9ae-621d-4888-955e-d831c2b9a14dca",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 5th 2020",
+      "time": "2:14:16 pm"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "585fc8ea-ad9a-4a01-9ff9-d482542a6cacsa",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:01:35 am"
+    },
+    {
+      "name": "consignar",
+      "account": "585fc8ea-ad9a-4a01-9ff9-d482542a6cacsa",
+      "value": 100000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:02:00 am"
+    },
+    {
+      "name": "retirar",
+      "account": "585fc8ea-ad9a-4a01-9ff9-d482542a6cacsa",
+      "value": 40000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:02:11 am"
+    },
+    {
+      "name": "retirar",
+      "account": "585fc8ea-ad9a-4a01-9ff9-d482542a6cacsa",
+      "value": null,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:02:15 am"
+    },
+    {
+      "name": "consignar",
+      "account": "585fc8ea-ad9a-4a01-9ff9-d482542a6cacsa",
+      "value": 10000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:02:51 am"
+    },
+    {
+      "name": "consignar",
+      "account": "585fc8ea-ad9a-4a01-9ff9-d482542a6cacsa",
+      "value": 500000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:03:21 am"
+    },
+    {
+      "name": "retirar",
+      "account": "585fc8ea-ad9a-4a01-9ff9-d482542a6cacsa",
+      "value": 60000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:03:26 am"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "dba3b36c-ac49-4147-8a7d-675051d72c24sa",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:03:56 am"
+    },
+    {
+      "name": "consignar",
+      "account": "dba3b36c-ac49-4147-8a7d-675051d72c24sa",
+      "value": 100000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:04:01 am"
+    },
+    {
+      "name": "retirar",
+      "account": "dba3b36c-ac49-4147-8a7d-675051d72c24sa",
+      "value": null,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:04:03 am"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "2cce3744-9391-48dc-9e3d-6f8c67100148sa",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:04:23 am"
+    },
+    {
+      "name": "consignar",
+      "account": "2cce3744-9391-48dc-9e3d-6f8c67100148sa",
+      "value": 100000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:04:28 am"
+    },
+    {
+      "name": "retirar",
+      "account": "2cce3744-9391-48dc-9e3d-6f8c67100148sa",
+      "value": 40000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:04:33 am"
+    },
+    {
+      "name": "retirar",
+      "account": "2cce3744-9391-48dc-9e3d-6f8c67100148sa",
+      "value": 60000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:04:56 am"
+    },
+    {
+      "name": "desactivar cuenta",
+      "account": "2cce3744-9391-48dc-9e3d-6f8c67100148sa",
+      "value": 18000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:05:09 am"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "f7e565a8-6bf7-4099-bc19-90abc0c3d5eaca",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:08:23 am"
+    },
+    {
+      "name": "desactivar cuenta",
+      "account": "f7e565a8-6bf7-4099-bc19-90abc0c3d5eaca",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:08:37 am"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "f7e565a8-6bf7-4099-bc19-90abc0c3d5eaca",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:09:55 am"
+    },
+    {
+      "name": "consignar",
+      "account": "f7e565a8-6bf7-4099-bc19-90abc0c3d5eaca",
+      "value": 80000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:10:26 am"
+    },
+    {
+      "name": "retirar",
+      "account": "f7e565a8-6bf7-4099-bc19-90abc0c3d5eaca",
+      "value": 30000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:10:57 am"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "c987b892-7ef4-4808-9225-b4ed990b836bsa",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:26:19 am"
+    },
+    {
+      "name": "desactivar cuenta",
+      "account": "c987b892-7ef4-4808-9225-b4ed990b836bsa",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:26:28 am"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "c987b892-7ef4-4808-9225-b4ed990b836bsa",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:26:39 am"
+    },
+    {
+      "name": "consignar",
+      "account": "c987b892-7ef4-4808-9225-b4ed990b836bsa",
+      "value": 100000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:26:44 am"
+    },
+    {
+      "name": "retirar",
+      "account": "c987b892-7ef4-4808-9225-b4ed990b836bsa",
+      "value": 40000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "10:27:22 am"
+    },
+    {
+      "name": "activar cuenta",
+      "account": "ec2a42e1-1e08-43ca-a363-16f0a4427ab4sa",
+      "value": 20000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "11:00:29 am"
+    },
+    {
+      "name": "consignar",
+      "account": "ec2a42e1-1e08-43ca-a363-16f0a4427ab4sa",
+      "value": 10000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "11:00:50 am"
+    },
+    {
+      "name": "consignar",
+      "account": "ec2a42e1-1e08-43ca-a363-16f0a4427ab4sa",
+      "value": 100000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "11:00:56 am"
+    },
+    {
+      "name": "retirar",
+      "account": "ec2a42e1-1e08-43ca-a363-16f0a4427ab4sa",
+      "value": 30000,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "11:01:06 am"
+    },
+    {
+      "name": "desactivar cuenta",
+      "account": "ec2a42e1-1e08-43ca-a363-16f0a4427ab4sa",
+      "value": 99400,
+      "sucursal": "StarBank",
+      "date": "June 8th 2020",
+      "time": "11:01:29 am"
+    }
+  ]
+}
